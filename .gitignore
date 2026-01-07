@@ -9,3 +9,13 @@ coverage/
 *.swp
 *.swo
 validation-results/
+
+# Test output files
+test*.json
+*-test.json
+final-test.json
+
+# Debug scripts (if you want to keep them local)
+# analyze-overhead.ts
+# check-response.ts
+# debug-tokenizer.ts
