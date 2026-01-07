@@ -1,0 +1,35 @@
+[
+  {
+    "providerUrl": "https://claude-code.club/api",
+    "localCount": {
+      "inputTokens": 5,
+      "outputTokens": 160,
+      "totalTokens": 165
+    },
+    "apiReportedUsage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 24,
+      "output_tokens": 192,
+      "service_tier": "standard"
+    },
+    "inputDiscrepancy": {
+      "absolute": 19,
+      "percentage": 380
+    },
+    "outputDiscrepancy": {
+      "absolute": 32,
+      "percentage": 20
+    },
+    "totalDiscrepancy": {
+      "absolute": 51,
+      "percentage": 30.909090909090907
+    },
+    "severity": "moderate",
+    "estimatedSystemPromptTokens": 19
+  }
+]
